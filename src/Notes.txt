@@ -1,0 +1,9 @@
+1. Whenever new folder added
+    change in CmakeLists.txt
+2. After all project check for
+pass by value or pass by reference.
+3. One error that can be detected during the
+runtime error is the value is not initialised with
+new Node();
+
+
